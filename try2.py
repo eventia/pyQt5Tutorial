@@ -1,3 +1,4 @@
+# https://wikidocs.net/book/2165
 import sys
 from PyQt5.QtWidgets import *
 from PyQt5.QtCore import QTimer
