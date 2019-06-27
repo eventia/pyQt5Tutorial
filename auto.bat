@@ -2,7 +2,7 @@
 echo ==========================================
 echo [PROCESSING...] git add --all .
 if [%1] EQU [] (
-echo [PROCESSING...] git commit -m "pyQt5 Tutorial - %date%"
+echo [PROCESSING...] git commit -m "pyQt5 Tutorial [%date%]"
 ) else (
 echo [PROCESSING...] git commit -m "%*"
 )
